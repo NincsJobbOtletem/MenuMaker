@@ -1,0 +1,32 @@
+A database-t átalakitani factory patterné. 
+
+config átirás. pipa
+
+Szerződésell garantálni hogy több sql-l is optimalizált.
+mysql,pdo ,sqLite
+
+php interface <- Hasonló egy osztályhoz . Strukturát ad.
+
+--------
+
+iDatabase létrehozása,factory-k hogy működnek...
+configbolt paraméterezni hogy melyik adatbázist szeretném betölteni.
+
+-------------
+View-twig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
